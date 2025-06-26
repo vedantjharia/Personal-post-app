@@ -53,8 +53,8 @@ A full-stack web application that allows users to register, log in, create and m
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/vedantjharia/Personal-post-app.git
+   cd /Personal-post-app
    ```
 
 2. **Install dependencies:**
